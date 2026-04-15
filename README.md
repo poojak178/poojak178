@@ -1,19 +1,20 @@
-<!-- BANNER -->
+<!-- PROFESSIONAL BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Pooja%20Kamble&fontSize=42&fontAlignY=35&desc=Website%20Designer%20%7C%20Freelancer&descAlignY=55&descSize=18" />
 </p>
 
+<!-- INTRO -->
 <h1 align="center">Hi 👋, I'm Pooja Kamble</h1>
-<h3 align="center">💻 Website Designer | 🚀 Freelancer | 🎨 Creative Mind</h3>
+<h3 align="center">💻 Website Designer | 🚀 Future Freelancer | 🎨 Creative Mind</h3>
 
-<!-- CODING GIF -->
+<!-- CODING ANIMATION GIF -->
 <img align="right" alt="coding" width="350" 
 src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ---
 
 ## 👩‍💻 About Me
-- 🌱 Currently learning **Web Development**
+- 🌱 Currently learning **Web Development & Freelancing**
 - 🎯 Goal: Earn money through skills 💰
 - ⚡ Fun fact: I mix creativity with technology
 
@@ -34,7 +35,7 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills (Focused & Clean)
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,figma,git" />
 </p>
@@ -43,16 +44,14 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=poojak178&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=poojak178&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=poojak178&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=poojak178&theme=tokyonight" />
 </p>
-
----
 
 ## 🚀 Top Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=poojak178&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojak178&layout=compact&theme=tokyonight" />
 </p>
